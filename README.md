@@ -1,0 +1,1 @@
+Needed a asset editor capable of exporting to a format understood by the NES since I had wanted to try making some simple games for it but there aren;t really any ways to make assets for it on linux. Have decided to prioritize making a game first with temporary assets, and so this has landed on the back burner
